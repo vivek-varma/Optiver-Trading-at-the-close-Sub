@@ -1,2 +1,3 @@
 Data/*
-
+*.csv
+.DS_STORE
