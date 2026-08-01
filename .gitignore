@@ -1,3 +1,5 @@
 Data/*
 *.csv
 .DS_STORE
+*.parquet
+*.joblib
